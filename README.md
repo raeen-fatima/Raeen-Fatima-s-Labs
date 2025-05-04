@@ -13,6 +13,11 @@ This repo is a way for me to practice, grow, and document my learning journey ac
 - **C/C++**: Basic Syntax, Memory Management, etc.
 - **Python**: Python Scripts, Algorithms, Utilities
 - **DSA**: Data Structures and Algorithms (Arrays, Linked Lists, Recursion, Sorting, etc.)
+  
+     ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+     ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+     ![DSA](https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge)
 
 ### Folder Structure
 Java/ → Java practice files (e.g. Calculator, Conditionals, Loops)
@@ -45,3 +50,18 @@ dsa/ → Data Structures & Algorithms (organized by topic)
 I’m Raeen Fatima — a student, developer, and lifelong learner. I created this repo to document my coding journey and build a public portfolio.
 
 Thanks for visiting!
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/raeen-fatima" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raeen-saifi-a8b6172a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:raeenfatimahere@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
