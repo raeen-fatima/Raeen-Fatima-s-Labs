@@ -1,4 +1,4 @@
-  Basic Steps to Upload Code on GitHub
+##  Basic Steps to Upload Code on GitHub
 
 1. Open your terminal or Git Bash
 
@@ -26,4 +26,4 @@
 9. Finally, push your code to GitHub:
    git push -u origin main
 
-Done  Now your code is live on GitHub!
+### Done  Now your code is live on GitHub!
