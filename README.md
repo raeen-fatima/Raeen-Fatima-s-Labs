@@ -49,6 +49,25 @@ dsa/ → Data Structures & Algorithms (organized by topic)
 ## Who Am I?
 I’m Raeen Fatima — a student, developer, and lifelong learner. I created this repo to document my coding journey and build a public portfolio.
 
+# Contributing to Raeen Fatima's Labs
+
+Thank you for your interest in contributing! 😊  
+This repository is my personal learning space, but feel free to open issues, suggest improvements, or fork the repo to explore on your own.
+
+## How to Contribute
+
+-  Report bugs or issues via [GitHub Issues](../../issues)
+-  Suggest improvements to code or structure
+-  Keep contributions beginner-friendly and well-commented
+-  Be kind and respectful in all interactions
+
+---
+
+## Want to collaborate?
+
+Feel free to reach out or fork this repo and start experimenting! Happy coding!
+
+
 Thanks for visiting!
 ---
 
