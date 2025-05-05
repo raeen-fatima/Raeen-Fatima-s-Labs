@@ -9,8 +9,8 @@ public class Variable {
         boolean inStock = true;
         
             System.out.println("Title:" + title);
-            System.out.println("price $:" +price );
-            System.out.println("Is Available:" +inStock );
+            System.out.println("price $:" + price );
+            System.out.println("Is Available:" + inStock );
         
     }
 }
