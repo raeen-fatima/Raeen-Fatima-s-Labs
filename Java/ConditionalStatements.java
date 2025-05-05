@@ -11,7 +11,7 @@ public class ConditionalStatements {
     public static void main(String[] args) {
          int score = 27 ; 
         if (score >= 90){
-            System.out.println("Exellent");
+            System.out.println("Excellent");
         }
         else if (score >= 70){
             System.out.println("Very Good");
