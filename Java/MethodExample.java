@@ -1,10 +1,7 @@
 // Task: Simple Method Program
 // Write a Java program that:
-
 // Defines a method greetUser(String name) that prints "Hello, <name>!"
-
 // Defines a method add(int a, int b) that returns the sum
-
 // Calls both methods from main()
 
 
@@ -29,3 +26,5 @@ public class MethodExample {
         System.out.println("Sum is: " + result);
     }
 }
+
+
