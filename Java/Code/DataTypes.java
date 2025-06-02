@@ -1,3 +1,5 @@
+package Code;
+
 public class DataTypes {
     public static void main (String[] args) {
         //Integer Types

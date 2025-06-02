@@ -1,3 +1,5 @@
+package Code;
+
 public class ReverseString {
     public static void reverseString(char[] s) {
         int left = 0, right = s.length - 1;

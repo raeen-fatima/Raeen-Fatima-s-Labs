@@ -1,3 +1,5 @@
+package Code;
+
 abstract class Animal {
     // Abstract method (no body)
     abstract void sound();

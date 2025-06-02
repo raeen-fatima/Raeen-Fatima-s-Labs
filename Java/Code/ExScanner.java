@@ -2,6 +2,7 @@
 // Takes your name, course name, and semester number as input using Scanner
 // Prints them in a formatted sentence like:
 // "Fatima is in Semester 3 of BCA Cyber Security"
+package Code;
 
 import java.util.Scanner;
 

@@ -6,6 +6,7 @@
 // 50–69: "Good"
 // 35–49: "Pass"
 // Below 35: "Fail"
+package Code;
 
 public class ConditionalStatements {
     public static void main(String[] args) {

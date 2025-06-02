@@ -1,3 +1,5 @@
+package Code;
+
 //SuperClass Animal 
  class Animal {
     //properties 
@@ -8,7 +10,7 @@
         this.name = name ;
     }
 
-    //MEthid in superclass
+    //Method in superclass
     public void eat() {
         System.out.println( name + " is Eating.");
     }
@@ -25,7 +27,7 @@
     public Dog(String name) {
         super(name); // => Calling superclass constructor
     }
-    //MEthod in subclass 
+    //Method in subclass 
     public void bark() {
         System.out.println(name + " is barking.");
     }

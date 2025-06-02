@@ -1,6 +1,5 @@
-a = 10
-b = 20
-sum = a + b
 
 print("Hello, World!")
-print("The sum of", a, "and", b, "is", sum)
+
+
+#Output: Hello World!

@@ -9,6 +9,7 @@
 
 // Calculates and prints the sum of all elements
 
+package Code;
 
 import java.util.Scanner;
 

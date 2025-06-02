@@ -3,6 +3,7 @@
 //Perform all 5 arithmetic operations
 //Compare them using relational operators
 //Use a ternary operator to print the smaller number
+package Code;
 
 public class Operator {
     public static void main(String[] args) {

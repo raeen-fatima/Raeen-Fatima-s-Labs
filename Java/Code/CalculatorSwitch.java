@@ -5,6 +5,7 @@
 // 3 → Multiplication
 // 4 → Division
 // Any other → Invalid choice
+package Code;
 
 import java.util.Scanner;
 

@@ -3,6 +3,7 @@
 // Defines a method greetUser(String name) that prints "Hello, <name>!"
 // Defines a method add(int a, int b) that returns the sum
 // Calls both methods from main()
+package Code;
 
 
 public class MethodExample {

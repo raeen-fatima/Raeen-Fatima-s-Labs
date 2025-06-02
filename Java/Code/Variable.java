@@ -1,6 +1,7 @@
 //Write a Java program that:
 //Declares 3 variables: String title, int price, boolean inStock
 //Assign values and print them out
+package Code;
 
 public class Variable {
     public static void main(String[] args) {

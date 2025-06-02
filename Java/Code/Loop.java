@@ -2,6 +2,7 @@
 // A for loop to print numbers 1 to 10
 // A while loop to print even numbers from 2 to 20
 // A do-while loop to print numbers in reverse from 5 to 1
+package Code;
 
 public class Loop {
     public static void main(String[] args) {

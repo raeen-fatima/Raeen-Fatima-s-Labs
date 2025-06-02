@@ -1,12 +1,13 @@
 // MethodOverride.java
+package Code;
 
-class Animal {
+class Animals {
     void sound() {
         System.out.println("Animal makes a sound.");
     }
 }
 
-class Dog extends Animal {
+class Dog extends Animals {
     @Override
     void sound() {
         System.out.println("Dog barks");
@@ -15,13 +16,13 @@ class Dog extends Animal {
 
 public class MethodOverride {
     public static void main(String[] args) {
-        Animal a = new Animal();
+        Animals a = new Animals();
         a.sound();
 
         Dog d = new Dog();
         d.sound();
 
-        Animal ad = new Dog();
+        Animals ad = new Dog();
         ad.sound();
     }
 }

@@ -1,3 +1,5 @@
+package Code;
+
 // Final Class
 final class Vehicle {
     private String model;
