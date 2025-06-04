@@ -1,4 +1,4 @@
-package Code;
+package Inheritance;
 
 //SuperClass Animal 
  class Animal {

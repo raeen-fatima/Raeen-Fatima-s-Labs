@@ -1,4 +1,4 @@
-package Code;
+package Exceptions;
 public class ThrowExample {
     static void validate(int age) {
         if (age < 18) {

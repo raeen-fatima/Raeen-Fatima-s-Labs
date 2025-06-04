@@ -1,4 +1,4 @@
-package Code;
+package Exceptions;
 import java.io.*;
 
 public class ThrowsExample {
