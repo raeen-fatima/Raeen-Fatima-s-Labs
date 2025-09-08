@@ -1,58 +1,51 @@
 
-
 ---
 
-```markdown
 # 🟢 Python Port Scanner
 
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-A **Python-based multi-threaded port scanner** for ethical use.  
-Scan ports, detect services, optionally grab banners, and save results to JSON/CSV. Perfect for learning **Python + Cybersecurity** concepts.
+A simple **Python-based port scanner** for **ethical use only**.
+It scans specified ports of a target host/IP, detects services, optionally grabs banners, and saves results to JSON or CSV. Supports **multi-threading** for faster scanning.
 
 ---
 
 ## ⚡ Features
 
-- Scan **single IP/host** or **range of ports**  
-- **Service detection** for common ports  
-- **Banner grabbing** for open ports  
-- **Multi-threaded scanning** for faster results  
-- **Save results** in JSON or CSV  
-- **Colored terminal output** using `colorama`  
-- Optional **.bat script** for easy one-click scan  
+* Scan **single IP/host** or **range of ports**
+* **Service detection** for common ports
+* **Banner grabbing** for open ports
+* **Multi-threaded** scanning for speed
+* **Save results** in JSON or CSV
+* **Colored terminal output** using `colorama` (Windows-friendly)
+* Optional **.bat script** for easy one-click scan
 
 ---
 
 ## 🗂 Project Structure
 
 ```
-
 Port Scanner/
 ├─ scanner/
-│  ├─ **init**.py
+│  ├─ __init__.py
 │  ├─ core.py       # Core scanning logic
 │  ├─ utils.py      # Helper functions (port parsing, service detection, save)
 │  └─ cli.py        # Command-line interface
-├─ run\_local.bat    # One-click Windows runner
+├─ run_local.bat    # One-click Windows runner
 ├─ venv/            # Python virtual environment
 └─ README.md
-
-````
+```
 
 ---
 
 ## 🛠 Requirements
 
-- Python 3.10+  
-- `colorama` library  
+* Python 3.10+
+* `colorama` library
 
-Install dependencies:
+Install dependencies in your virtual environment:
 
 ```bash
 pip install colorama
-````
+```
 
 ---
 
@@ -96,7 +89,7 @@ Double-click `run_local.bat` to:
 * Save results to `results.json`
 * Colored output in CMD
 
-> Edit `run_local.bat` to change target, ports, or output file.
+> You can edit `run_local.bat` to change target, ports, and output file.
 
 ---
 
@@ -141,18 +134,6 @@ df
 ## 📄 License
 
 MIT License – free to use for learning and personal projects.
-[View License](https://opensource.org/licenses/MIT)
-
-```
 
 ---
 
-✅ **Features of this README**:
-
-1. Professional **badges** for Python and License.  
-2. Clear **project structure**.  
-3. Step-by-step **usage instructions** for CLI, batch file, and Jupyter Notebook.  
-4. **Disclaimer** for ethical use.  
-5. GitHub ready — copy `README.md` in repo root.  
-
----
