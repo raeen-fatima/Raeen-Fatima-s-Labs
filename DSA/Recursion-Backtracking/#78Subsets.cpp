@@ -36,7 +36,9 @@ int main() {
         cout << "]" << endl;
     }
     return 0;
-} //output: [ [], [3], [2], [2,3], [1], [1,3], [1,2], [1,2,3] ]
+}
+
+//output: [ [], [3], [2], [2,3], [1], [1,3], [1,2], [1,2,3] ]
 /*dry run
 1. Start with an empty subset: []
 2. Include the first element (1): [1]
