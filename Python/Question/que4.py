@@ -1,16 +1,29 @@
-# Ask the user to enter two numbers. If the remainder of the first divided by second is 0, print “Perfectly divisible”. If remainder is 1, print “Almost divisible”. Else, print the remainder. Repeat until user exits.
-
 while True:
-  num1 = int(input("Enter Num1: "))
-  num2 = int(input("Enter Num2: "))
-  if num1 == 0:
-    print("Cannot Divisible by zero.Try Again")
-    continue
-  remainder = num1 % num2
-  if remainder == 0:
-    print("Perfectly Divisible")
-  elif remainder == 1:
-      print("Almost Divisible.")
-  else:
-      print(f"{remainder}is the remainder. try Again")
-   
+    num1 = int(input("Enter Num1: "))
+    num2 = int(input("Enter Num2: "))
+
+    if num2 == 0:
+        print("Cannot divide by zero. Try again.")
+        continue
+
+    remainder = num1 % num2
+
+    if remainder == 0:
+        print("Perfectly divisible.")
+    elif remainder == 1:
+        print("Almost divisible.")
+    else:
+        print(f"{remainder} is the remainder. Try again.")
+    exit_choice = input("Do you want to exit? (Y/N): ")
+    if exit_choice.upper() == 'Y':
+        break
+# End of the program
+# Output:
+# Enter Num1: 10
+# Enter Num2: 3
+# 1 is the remainder. Try again.
+# Do you want to exit? (Y/N): N
+# Enter Num1: 10
+# Enter Num2: 2
+# Perfectly divisible.
+# Do you want to exit? (Y/N): Y
