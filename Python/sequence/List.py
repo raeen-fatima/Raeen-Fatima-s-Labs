@@ -3,6 +3,7 @@ This means that we can modify, add, or remove elements from a list after it has 
 For example, we can change the value of an element in a list by accessing it using its index and assigning a new value.
 We can also use methods like append(), extend(), and remove() to modify a list.
 """
+'''List is a collection which is ordered and changeable. Allows duplicate members.'''
 
 ''' Creating a list'''
 List = []
