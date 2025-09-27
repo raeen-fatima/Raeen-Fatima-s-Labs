@@ -1,4 +1,4 @@
-# write a program that creates a sentences by storing the words of the sentence in separate variables and then put them together to form the sentence using string concatenation . Display the sentence to the screen.
+#Write a program that creates a sentences by storing the words of the sentence in separate variables and then put them together to form the sentence using string concatenation . Display the sentence to the screen.
 
 word1 = "python"
 word2 = "is"
