@@ -1,3 +1,4 @@
+# Ask the user to enter two numbers. If the remainder of the first divided by second is 0, print “Perfectly divisible”. If remainder is 1, print “Almost divisible”. Else, print the remainder. Repeat until user exits.
 while True:
     num1 = int(input("Enter Num1: "))
     num2 = int(input("Enter Num2: "))
