@@ -1,3 +1,4 @@
+# Write a Python program to check if a number is positive, negative or zero.
 num = int(input("Input a number: "))
 if num > 0:   #input => 2
     print(num,"is a Positive number.")
