@@ -6,11 +6,7 @@ for i in range(1, num + 1):
     if num % i == 0:
         print(i)
         
-'''Enter NUmber: 20
-Numbers that divide 20 perfectly are: 
-1
-2
-4
-5
-10
-20'''
+
+# Output => Enter Number: 20
+# Numbers that divide 20 perfectly are: 1,2,4,5,10,20
+
